@@ -1,4 +1,4 @@
-# fakestoreapi-react
+# Cadastro de Usuários - Teste Edesoft
 
 Este é um projeto em React, responsável por executar os processos de CRUD através da Fake Store API (https://fakestoreapi.com/docs).
     
